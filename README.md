@@ -1,6 +1,6 @@
 # Description
 
-Develop an elegant React.js Music Application. 
+React.js Music Application 
 
 # Technologies 
 - [x] React.js (Next.js)
