@@ -1,8 +1,13 @@
-# Project Lyrics
+# Description
 
 Develop an elegant React.js Music Application. 
 
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
+# Technologies 
+- [x] React.js (Next.js)
+- [x] Shazam Core API to gather music data
+- [x] Redux Toolkit to organize APIs
+- [x] Tailwind CSS because vanilla CSS sucks
+- [] Use IP Geolocation API to get the user’s location
 
 # Contributing
 
