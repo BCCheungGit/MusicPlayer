@@ -7,7 +7,7 @@ Develop an elegant React.js Music Application.
 - [x] Shazam Core API to gather music data
 - [x] Redux Toolkit to organize APIs
 - [x] Tailwind CSS because vanilla CSS sucks
-- [] Use IP Geolocation API to get the user’s location
+- [ ] Use IP Geolocation API to get the user’s location
 
 # Contributing
 
