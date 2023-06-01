@@ -7,6 +7,10 @@ Develop an elegant React.js Music Application.
 - [x] Shazam Core API to gather music data
 - [x] Redux Toolkit to organize APIs
 - [x] Tailwind CSS because vanilla CSS sucks
+- [ ] Fully implement sidebar links
+- [ ] Add top artists in the world
+- [ ] Add top music charts
+- [ ] Add genre and genre switching functionality
 - [ ] Use IP Geolocation API to get the user’s location
 
 ## System Requirements
