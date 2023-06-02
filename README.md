@@ -2,6 +2,9 @@
 
 React.js Music Application 
 
+# Please Note
+Shazam Core API is no longer free so this may not work in the near future. It is more of a test and learning project than an actual publishable project.
+
 # Technologies 
 - [x] React.js (Next.js)
 - [x] Shazam Core API to gather music data
@@ -82,3 +85,6 @@ To set up a development environment, please follow these steps:
     Project will be running in the browser.
 
     Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    
+    
+
